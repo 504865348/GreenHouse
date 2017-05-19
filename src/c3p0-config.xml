@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<default-config>
+		<property name="user">greenhouse</property>
+		<property name="password">ujsadmin999</property>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://115.28.74.4:3306/greenhouse</property>
+	</default-config> <!-- This app is massive! -->
+</c3p0-config> 
